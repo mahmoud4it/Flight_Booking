@@ -2,7 +2,7 @@
  <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mahmoud4it/medical_care_system">
+  <a href="https://github.com/mahmoud4it/Flight_Booking">
     <img src="screenshots/logo.png" alt="Logo" width="80" height="80">
   </a>
 
